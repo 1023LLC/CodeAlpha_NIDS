@@ -1,4 +1,4 @@
-# Sentinel
+# Sentinel V2.0
 INSTALLATION GUIDE
 =================================
 1. install the python
